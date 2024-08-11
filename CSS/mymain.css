@@ -1,18 +1,20 @@
 * {
     background-color: pink;
-    color: red;
-    padding: 40px;
+    
 }
-h1,h2,input,button{
-    color: black;
-    padding: 0;
+    /* learned the display property in CSS */
+/* div{
+    background-color: rgb(202, 255, 124);
+    height: 400px;
+    display: block;
 }
-
-.aq{
-    background-color: green;
-    color: wheat;
-}
-
+span
+{
+    background-color: rgb(202, 255, 124);
+    height: 540px;
+    
+    display: block;
+} */
 
 
 
