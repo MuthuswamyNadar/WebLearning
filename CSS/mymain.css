@@ -1,5 +1,5 @@
 * {
-    background-color: pink;
+    /* //background-color: pink; */
     
 }
     /* learned the display property in CSS */
@@ -18,8 +18,25 @@ span
 
 p{
     font-family:'Courier New', Courier, monospace,sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: underline;
+    font-style: italic;`
 }
 
+h1 {
+    font-family:"Bevan";   
+    border-style: dashed;
+    border-color: hsl(271, 100%, 60%);
+}
+
+body{
+    /* background-color: rgb(255, 255, 36); */
+    background-image: url('../images/flower.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
 
 
 
