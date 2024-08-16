@@ -48,14 +48,31 @@ h1 {
 
 body{
     /* background-color: rgb(255, 255, 36); */
-    background-image: url('../images/flower.jpg');
+    /* background-image: url('../images/flower.jpg');
     background-repeat: no-repeat;
     background-size:cover;
-    background-position: center;
+    background-position: center; */
 }
 
+#M1{
+    border: 1PX solid;
+    background-color: skyblue;
+    height: 300px;
+    width: 300px;
+    position: relative;
+    right: 50px;
+    top: 20px;
+    left: 200px;
+}
 
-
+#M2{
+    border: 1px solid;
+    height: 100px;
+    width: 100px;
+    background-color: tomato;
+    top:145px;
+    left: 150px;
+}
 
 
 
