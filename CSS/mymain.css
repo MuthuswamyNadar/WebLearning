@@ -16,6 +16,22 @@ span
     display: block;
 } */
 
+.my1
+{
+    background-color: green;
+}
+
+.my2{
+    background-color: blue;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-left: 70px;
+    height: 250px;
+    width: 250px;
+    border: rgb(255, 73, 41) solid;
+}
+
 p{
     font-family:'Courier New', Courier, monospace,sans-serif;
     font-size: 15px;
