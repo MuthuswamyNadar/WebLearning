@@ -1,7 +1,12 @@
 .container
 {
     display: flex;
-    flex-direction: row-reverse;
+    border: 10px solid black;
+    /* height: 90 px; */
+    align-items: flex-end;
+    flex-wrap: wrap;
+    /* flex-direction: row-reverse; */
+    /* justify-content:space-evenly; */
 }
 
 
@@ -10,9 +15,10 @@
 {
     font-size: 8em;
     height: 150px;
-
+    text-align: center;
     width: 150px;
-    height: 150px;
+    height: 150px; 
+    border-radius: 15px;
 }
 
 #box1
